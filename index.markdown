@@ -7,7 +7,7 @@ layout: base
 
 {% include head.html %}
 
-<div>
+<div class="image">
     <img src="/assets/Vaisseau.jpg" alt="vaisseau" usemap="#vaisseau" id="vaisseau_img">
     <map name="vaisseau" id="vaisseau">
         <area shape="rect" coords="284,650,568,779" alt="personnages" href="personnages.html" />
