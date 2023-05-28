@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  background: black;
+}
+
+/*
+div {
+  display: flex;
+  justify-content: center;
+}
+*/
+img {
+  width: 2236px;
+  height: 1298px;
+  object-fit: fill;
+}
+
+/*Grid with grid-template-columns : 5% 10% 5%
+ * See https://css-tricks.com/snippets/css/complete-guide-grid/
+ * or use https://github.com/davidjbradshaw/image-map-resizer if you don't have any values*/
