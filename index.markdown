@@ -12,6 +12,9 @@ layout: base
   <a xlink:href="personnages.html">
     <rect x="613" y="1383" fill="#fff" opacity="0" width="568" height="225"></rect>
   </a>
+  <a xlink:href="vocabulaire.html">
+    <rect x="1627" y="1344" fill="#fff" opacity="0" width="1484" height="631"></rect>
+  </a>
   <a xlink:href="geographie.html">
     <rect x="1311" y="2266" fill="#fff" opacity="0" width="564" height="222"></rect>
   </a>
