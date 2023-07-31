@@ -7,7 +7,7 @@ permalink: especes.html
 
 | | | | |
 | -- | -- | -- | -- | --
-| Arkys | "Peau jaune foncé striée de noire. Oreilles en pointe et visages plats" | Corpulence forte et musclée. Disposent de bons moyens militaires et de navettes." | Alliés de Vidyane
+| Arkys | Peau jaune foncé striée de noire. Oreilles en pointe et visages plats | Corpulence forte et musclée. Disposent de bons moyens militaires et de navettes. | Alliés de Vidyane
 | Evigans  | Visage et corps très poilus, gros nez allongé, parfois pieds nus.  | Pas très grands (Syane les dépasse d'une tête), pas très gros | Commerçants avides d'argent, mais fidèles aux dragonniers suite à un pacte
 | Sneila | Tête ovale sans cheveux. Peau jaune orangé. |  |
 | Yarks | Animaux quasiment Heuman  | Mercenaires guerriers toujours fortement armés |

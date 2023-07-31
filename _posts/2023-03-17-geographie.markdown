@@ -23,7 +23,7 @@ Géographie
 | Ënalha | Vaisseau | EMTA |  |  |  |  |
 | Énörh | vallée de  |  | ULUXUS |  |  |  |
 | Falté | Station  |  |  | En orbite autour du panètoïde PP-82
-| A deux UT de vol d'Eltsie |  | "19 - 38 - 63 - 82 - 106
+| A deux UT de vol d'Eltsie |  | 19 - 38 - 63 - 82 - 106
 |  |
 | Frobjère | demeure des dragonniers sur Uluxus |  | ULUXUS |  |  |  |
 | Govatannaz |  |  |  |  |  |  |
@@ -65,6 +65,6 @@ Géographie
 | VENEGA | Station | Eltsie |  |  | Régie par charte de Zackan |  |
 | Parc D'Izid | Hôtel touristique  | Eltsie | ELTSIE | Entre l'astroport de Vallantaz et la barrière magnétique  | Hôtel ayant servi à l'accueil des chefs des peuplades. Liccia et Mike peuvent y séjourner 10 UT |  |
 | Zarras | Résidence | Eltsie | ELTSIE |  | Résidence des dragonniers où était la navette de Liccia |  |
-| Vönan | Île volcanique |  | ULUXUS | lieu de ""La Forge ». Lieu tenu secret par les dragonniers dans lequel ils produisent du Cenac" | Volcan effusif avec de la lave mais sans poche de gaz. Sa base est entourée de brume |  | 5
+| Vönan | Île volcanique |  | ULUXUS | lieu de « La Forge ». Lieu tenu secret par les dragonniers dans lequel ils produisent du Cenac | Volcan effusif avec de la lave mais sans poche de gaz. Sa base est entourée de brume |  | 5
 |  | Astéroïde  |  |  | Nouvelle cachette d’Issany |  | 19 - 38 - 63 - 76 - 106 |
 
