@@ -3,7 +3,7 @@ title:  "Temps universel"
 date:   2023-03-17 12:44:34 +0100
 permalink: temps_universel.html
 ---
-Temps universel
+# Temps universel
 
 Les règles de voyages et de commerces dans l’espace ont obligé les divers partenaires à s’accorder sur un décompte de temps identique en tout lieu : planètes, stations orbitales ou vaisseaux. Ce décompte se nomme temps universel.
 
