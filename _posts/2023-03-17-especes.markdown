@@ -3,4 +3,21 @@ title:  "Espèces"
 date:   2023-03-17 12:44:34 +0100
 permalink: especes.html
 ---
-Page espèces
+# Espèces
+
+| | | | |
+| -- | -- | -- | -- | --
+| Arkys | "Peau jaune foncé striée de noire. Oreilles en pointe et visages plats" | Corpulence forte et musclée. Disposent de bons moyens militaires et de navettes." | Alliés de Vidyane
+| Evigans  | Visage et corps très poilus, gros nez allongé, parfois pieds nus.  | Pas très grands (Syane les dépasse d'une tête), pas très gros | Commerçants avides d'argent, mais fidèles aux dragonniers suite à un pacte
+| Sneila | Tête ovale sans cheveux. Peau jaune orangé. |  |
+| Yarks | Animaux quasiment Heuman  | Mercenaires guerriers toujours fortement armés |
+| Heuman  |  |  |
+| Nerk | Peau verte. 2 antennes avec les yeux dessus, 6 bras  | Sont les principaux habitants d’Uluxus. Surtout des travailleurs et producteurs mais pas des guerriers. Sont exploités par les Arkys |
+| Dragon | 10 m de haut si se tient droit, 4 pattes et 2 ailes. 3 doigts à chaque patte, avec griffe. Long cou, écailles côté nuque et lisse de l’autre. Longue queue avec une petite excroissance. Nervure en forme de cercle à 5 axes sur le haut de la tête.  |  |
+| Rümz | même taille que les heumans mais visage allongé. Peau jaune clair. Deux orifices mais pas de nez. Pas de cheveux. Fines oreilles discrètes | Peuple le plus fidèle aux dragonniers. |
+| Minizs | Petits (arrivent à la taille), peau marron. Très intelligents | Peuple nomade réparti dans toute la galaxie en petites tribus d’une cinquantaine d’individus Soutiennent les activités des dragonniers depuis qu’Alan les a aidés à évacuer d’Eltsar | 5 d’entre eux sont en charge de la logistique des dragonniers sur Uluxus |
+| Criacks |  | Peuple minoritaire sur Uluxus, hostiles aux dragonniers. Leur chef Rouferak est à la solde de l’EMTA |
+| Loäck | Paysans des plateaux milyses |  |
+| Lokys | Peau jaune tachetée de noir |  |
+| Scorys |  | Créateurs d’Issany |
+| Sanëbacks | Ressemblent aux Rümz mais légèrement plus petits. Plus agiles mais vivent moins longtemps |  |
