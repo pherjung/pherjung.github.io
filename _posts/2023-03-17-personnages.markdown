@@ -5,7 +5,7 @@ permalink: personnages.html
 ---
 # Personnages
 
-| Type | Nom | Fonction | Complément | Grade EMTA | Dragon | Complément
+| Nom | Espèce | Fonction | Description physique | Si militaire ou ex militaire EMTA : grade | Complément
 | -- | -- | -- | -- | -- | -- | --
 | Aititeal | Evigans | Gère la logistique de transfert 2 depuis rithz III |  |  |
 | Alan K | Heuman | Dragonnier | Grand, brun, cheveux courts, yeux bleus. | "Commandant niveau S5" |
