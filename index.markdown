@@ -9,6 +9,9 @@ layout: base
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4724 2717">
   <image width="4724" height="2717" xlink:href="/assets/Vaisseau.jpg"></image>
+  <a href="https://sagasyane.net">
+    <rect x="2558" y="550" fill="#fff" opacity="0" width="564" height="222"></rect>
+  </a>
   <a xlink:href="personnages.html">
     <rect x="613" y="1383" fill="#fff" opacity="0" width="568" height="225"></rect>
   </a>
