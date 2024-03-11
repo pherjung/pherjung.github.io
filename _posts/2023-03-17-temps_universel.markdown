@@ -35,4 +35,4 @@ La conversion exacte est la suivante :
 ![Exemple affichage](assets/IMG_1696.jpeg)
 
 ## Lecture des horloges :
-Dans le livre, il est écris, par exemple : 5908 - 90 - 498
+Dans le livre, il est écrit, par exemple : 5908 - 90 - 498
