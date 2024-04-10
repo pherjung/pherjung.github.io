@@ -7,21 +7,11 @@ permalink: especes.html
 
 | Nom | Description | Complément |  | Longévité | Image issue des couvertures, du site ou de l’actualité des réseaux sociaux | Première apparition dans Tome
 | -- | -- | -- | -- | -- | -- | --
-| Arkys | "Peau jaune foncé striée de noire. Oreilles en pointe et visages plats" | "Corpulence forte et musclée. Disposent de bons moyens militaires et de navettes." | Alliés de Vidyane |  |  | T2
-| Claudibül | Peau bleue, yeux ronds et jaunes, tentacules. | Vivent essentiellement dans l’eau, peuvent respirer en surface et sous l’eau. | Capables de lire dans les pensées d’autres espèces d’un simple regard et de contrôler certaine avec un contact physique. | > 2000 RT |  | T5
 | Criacks | Réputé pour sa rigueur d’organisation sur Vanaga, la plupart des chefs de secteur sont des Criacks. | "Peuple minoritaire sur Uluxus, hostiles aux dragonniers Leur chef Rouferak est à la solde de l’EMTA" |  |  | <img src="assets/criacks.png" style="width:70px; display:block; margin-left:auto; margin-right:auto;"/> | T1
 | Dragon | 10 m de haut si se tient droit, 4 pattes et 2 ailes. 3 doigts à chaque patte, avec griffe. Long cou, écailles côté nuque et lisse de l’autre. Longue queue avec une petite excroissance. Nervure en forme de cercle à 5 axes sur le haut de la tête. |  |  |  |  | T1
-| Evigans | Visage et corps très poilus, gros nez allongé, parfois pieds nus. | Pas très grands (Syane les dépasse d'une tête), pas très gros | Commerçants avides d'argent, mais fidèles aux dragonniers suite à un pacte |  |  | T2
 | Heuman | Espèce proche des Humains de la Terre |  |  | > 1000 RT |  | T1
 | Loäck | Paysans des plateaux milyses |  |  |  |  | T1
-| Lokys | Grand et musclé, peau légèrement verte, parsemée de jaune et de taches noires. Oreilles pointues |  |  |  |  | T4
-| Minizs | Etre deux fois moins grand qu'un humain, oreilles allongées, crâne ondulé, peau marron et glabre. Très intelligent. | "Peuple nomade réparti dans toute la galaxie en petites tribus d’une cinquantaine d’individus Soutiennent les activités des dragonniers depuis qu’Alan les a aidés à évacuer d’Eltsar" | 5 d’entre eux sont en charge de la logistique des dragonniers sur Uluxus |  |  | T2
 | Nerk | Peau verte. 2 antennes avec les yeux dessus, visage rond, 6 bras | Sont les principaux habitants d’Uluxus. Surtout des travailleurs et producteurs mais pas des guerriers. Sont exploités par les Arkys |  |  |  | T1
-| Övehc | Animal à 4 pattes, puissant, utilisé depuis longtemps pour les travaux des champs ou de transport. |  |  |  |  |
-| Rümz | même taille que les heumans mais visage allongé. Peau jaune clair. Deux orifices mais pas de nez. Pas de cheveux. Fines oreilles discrètes | Peuple le plus fidèle aux dragonniers. |  |  |  | T2
-| Sanëbacks | Ressemblent aux Rümz mais légèrement plus petits. Plus agiles mais vivent moins longtemps |  |  |  |  |
-| Scorys | "D’une taille un peu plus petite qu’un Heuman, la tête allongée, dépourvu de cheveux, deux yeux noirs très grands occupants presque la moitié supérieur du visage, des orifices respiratoires discrets et une petite bouche sur un menton allongé. Leur peau était d’un gris très pâle." | Créateurs d’Issany |  |  |  | T6
-| Sneila | Tête ovale sans cheveux. Peau jaune orangé. |  |  | > 1500 RT |  |
 | Yarks | Animaux quasiment Heuman | Mercenaires guerriers toujours fortement armés |  |  |  | T1
 | Arpes | Un peu plus grand qu’un Heuman, possède une tête allongée vers l’arrière et un visage plat. |  |  |  | <img src="assets/arpes.png" style="width:70px; display:block; margin-left:auto; margin-right:auto;"/> | T1
 | Yorkys |  |  |  |  |  | T6
