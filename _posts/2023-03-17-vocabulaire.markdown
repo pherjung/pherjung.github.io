@@ -5,6 +5,9 @@ permalink: vocabulaire.html
 ---
 # Vocabulaire
 
+_Ce tableau sera complété à mesure de l’édition de la Saga._
+
+
 | Nom fiction | Description | Type | Première apparition dans Tome
 | -- | -- | -- | --
 | Astronef | Engin pouvant voler dans l’espace, dans l’atmosphère d’une planète et pouvant atterrir et décoller depuis le sol. |  | T1

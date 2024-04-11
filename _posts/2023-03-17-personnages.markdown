@@ -5,6 +5,9 @@ permalink: personnages.html
 ---
 # Personnages
 
+_Ce tableau sera complété à mesure de l’édition de la Saga._
+
+
 | Nom | Espèce | Fonction | Description physique  | Complément | Image issue des couvertures, du site ou de l’actualité des réseaux sociaux  | Première apparition dans tome 
 | -- | -- | -- | -- | -- | -- | --
 | Alan K | Heuman | Dragonnier | Grand, brun, cheveux courts, yeux bleus. |  |  | T1
