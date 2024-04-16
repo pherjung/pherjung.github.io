@@ -15,6 +15,4 @@ _Ce tableau sera complété à mesure de l’édition de la Saga._
 | Heuman | Espèce proche des Humains de la Terre |  |  | > 1000 RT |  | T1
 | Loäck | Paysans des plateaux milyses |  |  |  |  | T1
 | Nerk | Peau verte. 2 antennes avec les yeux dessus, visage rond, 6 bras | Sont les principaux habitants d’Uluxus. Surtout des travailleurs et producteurs mais pas des guerriers. Sont exploités par les Arkys |  |  |  | T1
-| Yarks | Animaux quasiment Heuman | Mercenaires guerriers toujours fortement armés |  |  |  | T6
 | Arpes | Un peu plus grand qu’un Heuman, possède une tête allongée vers l’arrière et un visage plat. |  |  |  | <img src="assets/arpes.png" style="width:70px; display:block; margin-left:auto; margin-right:auto;"/> | T1
-| Yorkys |  |  |  |  |  | T6
