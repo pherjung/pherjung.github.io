@@ -27,3 +27,5 @@ _Ce tableau sera complété à mesure de l’édition de la Saga._
 | Temps universel | 1 RT = 100 UT / 1 UT = 1000 MUT / 1 MUT = 1000 MilliMUT |  | T1
 | Vaisseau | Engin construit dans l'espace et ne pouvant ni atterrir ni décoller d’un planète en raison de son taille et de son poids. |  | T1
 | Zacks | Monnaie valable sur les stations Venega et Vanaga | Monnaie | T1
+| Éht | Boisson à base de plantes, servie chaude ou froide  | Boisson | T2
+| Ephoni  | Petite appareil de haute technologie, permettant de communiquer et d’accès au réseau universel. |  | T2
